@@ -32,6 +32,7 @@ Mencetak Nomor urut data (i+1)
 Mencetak Bilangan yang dihasilkan.
 
 HASIL PROGRAM
+
 ![Screenshot 2024-11-01 132050](https://github.com/user-attachments/assets/25a40e72-0b15-456d-acb7-ec4165c45991)
 
 
@@ -52,6 +53,7 @@ Penjelasan algoritma:
 Algoritma ini bekerja dengan cara terus menerus meminta pengguna memasukan bilangan. setiap bilangan yang di input akan di bandingkan dengan bilangan yang sudah adda. jika bilanggan yang baru dimasukkan lebih besar, maka bilangan terbesar akan diperbarui. proses ini akan terus berulang sampai pengguna memasukkan angka 0 sebagai tanda berhenti.
 
 Hasil program:
+
 
 ![Screenshot 2024-11-01 143259](https://github.com/user-attachments/assets/e3142eec-7ac2-4977-920c-d8bd8aa22398)
 
@@ -76,4 +78,6 @@ Tampilkan HAsil:
 Mencetak nilai laba ke layar.
 
 Hasil Program
+
+
 ![Screenshot 2024-11-01 151813](https://github.com/user-attachments/assets/28661299-d0c3-431f-8c67-9ac62ae310f6)
